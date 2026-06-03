@@ -30,7 +30,7 @@ AVAILABLE_TOOLS = {
 
 # 3. Main Agent Program
 print("1. Uploading the messy PDF directly to Gemini's 'eyes'...")
-patient_file = client.files.upload(file="patient 2 (1).pdf")
+patient_file = client.files.upload(file="patient_2.pdf")
 
 system_instruction = """
 You are an advanced Agentic Medical Assistant. Your goal is to run diagnostic checks and draft a Discharge Summary.

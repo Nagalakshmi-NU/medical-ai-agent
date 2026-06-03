@@ -17,7 +17,7 @@ def read_patient_pdf(file_name):
     return all_text
 
 # --- Let's test it out! ---
-my_text = read_patient_pdf("patient 2 (1).pdf")
+my_text = read_patient_pdf("patient_2.pdf")
 
 # Print out the first 500 characters just to prove it worked
 print("--- PDF TEXT EXTRACTED SUCCESSFULLY ---")
