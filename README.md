@@ -1,7 +1,7 @@
 # Multimodal Agentic AI System for Clinical Discharge Summaries
 
 **Author:** Nagalakshmi N U  
-**Role:** AI Engineer
+**Role:** AI Engineer 
 **Target Focus:** Part 1 — Comprehensive Discharge Summary Agent Loop (Production-Grade)
 
 ---
